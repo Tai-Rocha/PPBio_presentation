@@ -91,7 +91,7 @@ class: top
 #### Plano PPBio
 #### Etapa 2- Ideias sobre o que fazer com esses dados a depender do que for compilado. Exemplos:
 
-- Como esses dados preenchem lacunas das grndes bases dados, principalmente com relação ao  Global Biodiversity Information Facility ([GBIF](https://www.gbif.org/))
+- Como esses dados preenchem lacunas das grandes bases dados, principalmente em relação ao Global Biodiversity Information Facility ([GBIF](https://www.gbif.org/))
 
 - Análises espacias (Impacto de mudanças climáticas Futuras)
 
