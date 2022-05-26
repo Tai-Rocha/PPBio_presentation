@@ -78,13 +78,13 @@ class: middle, center
 class: top
 
 #### Plano PPBio
-#### Etapa 1- Avaliar o Estado da Arte do dados gerados pelos PPBio (Diagnóstico)
+#### Etapa 1- Avaliar o Estado da Arte do dados gerados pelos PPBio (Diagnóstico) .
 
 - Compilação dos dados do [DataONE](https://www.dataone.org/) *
 
 - Mapear dados fora do DataONE (Publicados e não publicados)
 
-- Trabalhar em colaboração com todos os PPBIOs, principalmente PPBIo Amazônia Ocidental *
+- Trabalhar em colaboração com todos os PPBIOs, principalmente PPBIo Amazônia Ocidental*
 
 ---
 
